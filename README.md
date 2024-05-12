@@ -2,7 +2,7 @@
 	<img src="banner.png">
 </p>
 
-# Olá, sou o Nilton Gonçalves 👨🏾‍🦱
+# Olá, sou o Nilton Gonçalves 
 - 🔭 em transição de carreira
 - 🌱 Atualmente estou aprendendo HTML, CSS e Javascript
 
